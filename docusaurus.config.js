@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '镐赞的生产力',
+  title: '镐赞的 AI 生产力',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -75,7 +75,7 @@ const config = {
       },
       
       navbar: {
-        title: '镐赞的生产力',
+        title: '镐赞的 AI 生产力',
         logo: {
           alt: 'My Site Logo',
           src: 'img/undraw_male.svg',
@@ -102,7 +102,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '镐赞的生产力',
+            title: '镐赞的 AI 生产力',
             items: [
               {
                 label: '关于',
@@ -111,18 +111,22 @@ const config = {
             ],
           },
           {
-            title: '社区',
+            title: '媒体',
             items: [
               // {
               //   label: 'Stack Overflow',
               //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               // },
               {
-                label: 'Discord',
+                label: '公众号',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
-                label: 'Twitter',
+                label: 'bilibili',
+                href: 'https://twitter.com/docusaurus',
+              },
+              {
+                label: '知乎',
                 href: 'https://twitter.com/docusaurus',
               },
             ],
@@ -130,10 +134,10 @@ const config = {
           {
             title: '更多',
             items: [
-              {
-                label: '博客',
-                to: '/blog',
-              },
+              // {
+              //   label: '博客',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/haozan/HaoZan.github.io',
@@ -141,7 +145,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Hao Zan, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hao Zan, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,

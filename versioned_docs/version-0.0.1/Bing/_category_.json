@@ -1,0 +1,8 @@
+{
+  "label": "New Bing",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "New Bing 是一个超越想象的搜索引擎，它可以读懂你的心思，从互联网上为你挖掘最精彩的答案。它基于 GPT-4 引擎。"
+  }
+}
