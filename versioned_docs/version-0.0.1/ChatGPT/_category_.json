@@ -1,8 +1,0 @@
-{
-  "label": "ChatGPT",
-  "position": 4,
-  "link": {
-    "type": "generated-index",
-    "description": "ChatGPT 是 OpenAI 开发的一项革命性的人工智能聊天机器人技术，它使用基于 GPT-3.5 架构的大型语言模型，并以强化学习训练。ChatGPT 可以以前所未有的准确性和流畅性理解生成类似人类的自然语言，还可以用于复杂的任务，如调试代码、回答敏感问题、理解上下文等。"
-  }
-}
