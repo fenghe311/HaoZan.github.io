@@ -1,8 +1,8 @@
 {
   "label": "帮助中心",
-  "position": 8,
+  "position":8,
   "link": {
     "type": "generated-index",
-    "description": "Notion AI 是 Notion 在2023年2月推出的一项基于 ChatGPT-3 引擎的 AI 功能，强大无比。"
+    "description": "XX"
   }
 }
