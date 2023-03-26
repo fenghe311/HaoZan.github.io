@@ -2,22 +2,15 @@
 sidebar_position: 6
 ---
 
-# Congratulations!
+# 私教简章
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+> 「未知的领域等待我们去探索，只有这样我们才能真正的成长和进步。」 —— 伊隆·马斯克
+> 
 
-Docusaurus has **much more to offer**!
+我愿意在本网站免费分享我所有的 AI、GPT 技能，毫不保留。这是我能为法律行业做出的一点贡献。
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+因此，如无必要，无需雇用私人导师。**您和我的时间都很宝贵**。请问，您的时薪是多少？
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+这里所说的私人导师项目是 1 对 1 的教学，适合 0 基础的律师伙伴。我将为您探索 AI 领域保驾护航。私教的收获相比课时费用是沧海之一粟。如果需要，请添加我的微信以便沟通，备注：私教。
 
-## What's next?
-
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+[http://ipic.qinglion.com/202303260913](http://ipic.qinglion.com/202303260913)
