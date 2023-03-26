@@ -13,4 +13,4 @@ sidebar_position: 6
 
 这里所说的私人导师项目是 1 对 1 的教学，适合 0 基础的律师伙伴。我将为您探索 AI 领域保驾护航。私教的收获相比课时费用是沧海之一粟。如果需要，请添加我的微信以便沟通，备注：私教。
 
-[http://ipic.qinglion.com/202303260913](http://ipic.qinglion.com/202303260913)
+![联系方式](http://ipic.qinglion.com/202303260913)
