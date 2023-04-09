@@ -1,0 +1,8 @@
+{
+  "label": "博客文章",
+  "position":3,
+  "link": {
+    "type": "generated-index",
+    "description": ""
+  }
+}
